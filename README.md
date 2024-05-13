@@ -36,13 +36,24 @@ ul.a {
 <li>Can Boost Metabolism; Supporting Weight Lost</li>
 </ul>
 
+<p>Workout Ideas</p>
 <ul>
       <li>200m Workout</li>
       <ul>
-        <li>Spring 100m</li>
+        <li>Sprint100m</li>
         <li>Walk/Jog 100m/li>
         <li>Repeat 3x</li>
 </ul>
+
+<ul>
+      <li>400m Workout</li>
+      <ul>
+        <li>Sprint 100m</li>
+        <li>Walk/Jog 200m/li>
+        <li>Sprint 100m</li>
+        <li>Repeat 2x</li>
+</ul>
+
   
 </body>
 </html>
