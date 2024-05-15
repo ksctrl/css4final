@@ -32,14 +32,14 @@ li {
 <p>Did you know around 1.1 million high schoolers participate in track each year? Worldwide, track is considers to be the 2nd most popular sport only behind soccer (futbol).</p>
 
 <p>Asides from its popularity, track is known for keeping its participates in shape year round.</p>
-
+<div class=bold>
 <ul>
 <li>Increaes Cardiovascular Fitness</li>
 <li>Builds Muscle in your Legs</li>
 <li>Reduces Chance of Injury</li>
 <li>Can Boost Metabolism; Supporting Weight Lost</li>
 </ul>
-
+</div>
 <p>So why not do it? It beneficial for the body and mind. All you need, is a pair of running shoes, and strong commimtment.</p>
 
 <a href="https://ksctrl.github.io/workoutcssfinal/"> <h5> Workout Ideas </h5> </a> 
