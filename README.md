@@ -56,27 +56,6 @@ ul.a {
     <option>Distance</option>
     <option>Unsure</option>
   </select>
-
-
-</form>
-
-<p>Workout Ideas</p>
-<ul>
-      <li>200m Workout</li>
-      <ul>
-        <li>Sprint100m</li>
-        <li>Walk/Jog 100m/li>
-        <li>Repeat 3x</li>
-</ul>
-<br>
-      <li>400m Workout</li>
-      <ul>
-        <li>Sprint 100m</li>
-        <li>Walk/Jog 200m/li>
-        <li>Sprint 100m</li>
-        <li>Repeat 2x</li>
-</ul>
-
-  
+</form>  
 </body>
 </html>
