@@ -20,9 +20,9 @@ p {
 ul.a {
   list-style-type: circle;
 }
-
 li { 
     color: red;
+    text-align: center;
   }
 </style>
 </head>
