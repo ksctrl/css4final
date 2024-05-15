@@ -20,6 +20,10 @@ p {
 ul.a {
   list-style-type: circle;
 }
+
+li { 
+    color: red;
+  }
 </style>
 </head>
 <body>
