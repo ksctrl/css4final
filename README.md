@@ -38,7 +38,7 @@ ul.a {
 
 <p>So why not do it? It beneficial for the body and mind. All you need, is a pair of running shoes, and strong commimtment.</p>
 
-<a href="https://ksctrl.github.io/workoutcssfinal/">Workout Ideas</a> <a href=" https://ksctrl.github.io/tracktipscssfinal/">Tips</a> 
+<a href="https://ksctrl.github.io/workoutcssfinal/"> <h5>Workout Ideas<h5></a> <a href=" https://ksctrl.github.io/tracktipscssfinal/"><h5>Tips</h5></a> 
 
 <h2>JOIN US!</h2>
 <form>
