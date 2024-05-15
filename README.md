@@ -38,6 +38,8 @@ ul.a {
 
 <p>So why not do it? It beneficial for the body and mind. All you need, is a pair of running shoes, and strong commimtment.</p>
 
+<a href="">Workout Ideas</a> <a href="">Tips</a> 
+
 <h2>JOIN US!</h2>
 <form>
 <p>Your Name</p>
@@ -67,7 +69,6 @@ ul.a {
         <li>Repeat 3x</li>
 </ul>
 <br>
-<ul>
       <li>400m Workout</li>
       <ul>
         <li>Sprint 100m</li>
